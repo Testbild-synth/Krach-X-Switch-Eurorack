@@ -2,7 +2,7 @@
 
 Recently, I was commissioned by [Krach der Roboter](https://www.facebook.com/KrachDerRoboter/) who had the idea to design a passive performance tool based on the idea of quickly switching signal paths. What came out of it is this simple and useful module:
 
-<img src="images/front_view.jpg" width="25%" height="25%"> <img src="images/side_view.jpg" width="25%" height="25%">
+<img src="images/front_view.jpg" width="30%" height="30%"> <img src="images/side_view.jpg" width="30%" height="30%">
 
 ## Function
 
@@ -14,7 +14,7 @@ This is also meant as an absolute beginner/first DIY module, so everything is ma
 
 ## PCB and Hardware
 
-<img src="images/front_panel.jpg" width="25%" height="25%"> <img src="images/pcb.jpg" width="25%" height="25%">
+<img src="images/front_panel.png" width="25%" height="25%"> <img src="images/pcb.png" width="25%" height="25%">
 
 You can find the schematic and BOM in the root folder.
 For the PCBs, the module has one circuit PCB and one panel PCB. 
