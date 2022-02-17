@@ -18,7 +18,7 @@ This is also meant as an absolute beginner/first DIY module, so everything is ma
 
 You can find the schematic and BOM in the root folder.
 For the PCBs, the module has one circuit PCB and one panel PCB. 
-You can order them on any common PCB manufacturing service, I used [JLCPCB](https://jlcpcb.com/).
+You can order them on any common PCB manufacturing service, we used [JLCPCB](https://jlcpcb.com/).
 
 Standard settings should be fine, but as there is exposed copper on the panel you should go with a lead free surface finish (ENIG/Leadfree HASL).
 If the panel sizes are not recognized correctly (may happen with my export sometimes) just put 128.5x50mm.
