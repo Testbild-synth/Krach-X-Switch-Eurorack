@@ -14,7 +14,7 @@ This is also meant as an absolute beginner/first DIY module, so everything is ma
 
 ## PCB and Hardware
 
-<img src="images/front_panel.png" width="25%" height="25%"> <img src="images/pcb.png" width="25%" height="25%">
+<img src="images/front_panel.png" width="20%" height="20%"> <img src="images/pcb.png" width="25%" height="25%">
 
 You can find the schematic and BOM in the root folder.
 For the PCBs, the module has one circuit PCB and one panel PCB. 
@@ -26,3 +26,5 @@ If the panel sizes are not recognized correctly (may happen with my export somet
 For the push switches, we used these, but you can use any that will somewhat fit the footprint and have <m7 thread on the top.
 <img src="images/pb_switches.jpg" width="25%" height="25%">
 
+## Assembly
+Should be very straight forward, as always it is best to mount the components on the panel first before soldering so that they are properly in place.
