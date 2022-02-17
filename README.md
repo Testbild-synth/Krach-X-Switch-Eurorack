@@ -14,7 +14,7 @@ This is also meant as an absolute beginner/first DIY module, so everything is ma
 
 ## PCB and Hardware
 
-<img src="images/front_panel.png" width="20%" height="20%"> <img src="images/pcb.png" width="25%" height="25%">
+<img src="images/front_panel.png" width="21%" height="21%"> <img src="images/pcb.png" width="25%" height="25%">
 
 You can find the schematic and BOM in the root folder.
 For the PCBs, the module has one circuit PCB and one panel PCB. 
