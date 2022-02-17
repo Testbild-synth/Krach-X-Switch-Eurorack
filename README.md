@@ -1,4 +1,4 @@
-# Krach X-Switch Eurorack performance Module
+# Krach X-Switch Eurorack Performance Module
 
 Recently, I was commissioned by [Krach der Roboter](https://www.facebook.com/KrachDerRoboter/) who had the idea to design a passive performance tool based on the idea of quickly switching signal paths. What came out of it is this simple and useful module:
 
