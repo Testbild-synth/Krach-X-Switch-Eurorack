@@ -4,6 +4,8 @@ Recently, I was commissioned by [Krach der Roboter](https://www.facebook.com/Kra
 
 <img src="images/front_view.jpg" width="30%" height="30%"> <img src="images/side_view.jpg" width="30%" height="30%">
 
+## Status: recently added version 1.3 which has improved spacing for cut/connect switch legs
+
 ## Function
 
 The core function of the module revolves around the "cross-switch". Two input channels are attenuated independently and then go to the output, but if you flip the cross switch, the Input 1 goes into output 2 and vice versa. This allows for fast back and forth switching of cv signals.
